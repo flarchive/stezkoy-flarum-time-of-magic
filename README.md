@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of stezkoy/flarum-time-of-magic.** Not for installation: use [Packagist](https://packagist.org/packages/stezkoy/flarum-time-of-magic) or the [upstream repository](https://github.com/Stezkoy/flarum-time-of-magic).
 
-**0** versions archived · Latest: [`v1.5.1`](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.5.1) · License: `MIT` · Flarum: `^2.0`
+**14** versions archived · Latest: [`v1.5.1`](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.5.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-08-26 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-08-26 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-08-31 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.0.2) |
+| `1.1.0` | 2026-08-31 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.1.0) |
+| `1.1.1` | 2026-08-31 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.1.1) |
+| `1.2.0` | 2026-09-01 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.2.0) |
+| `1.2.1` | 2026-09-04 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.2.1) |
+| `1.3.0` | 2026-09-05 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.3.0) |
+| `1.3.1` | 2026-09-06 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.3.1) |
+| `1.3.2` | 2026-09-06 | `^2.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tree/archive/v1.3.2) |
+
+[View all 14 versions](https://github.com/flarchive/stezkoy-flarum-time-of-magic/tags)
 
 Catalog entry: [packages/stezkoy-flarum-time-of-magic.json](https://github.com/flarchive/archive-index/blob/main/packages/stezkoy-flarum-time-of-magic.json)
 
